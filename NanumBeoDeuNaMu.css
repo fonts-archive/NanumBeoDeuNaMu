@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumBeoDeuNaMu';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBeoDeuNaMu/NanumBeoDeuNaMu.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBeoDeuNaMu/NanumBeoDeuNaMu.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumBeoDeuNaMu/NanumBeoDeuNaMu.ttf') format('truetype');
+}
